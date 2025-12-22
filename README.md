@@ -37,8 +37,8 @@
       
    - ### 🫗 Liquids
     System currently optimized for the following liquids only:
-     Water (Filtered) or Kirkland Signature Ionized Alkaline Spring Water
-     Kirkland Signature Organic Fine-filtered 2% Milk
+     - Water (Filtered) or Kirkland Signature Ionized Alkaline Spring Water
+     - Kirkland Signature Organic Fine-filtered 2% Milk
 
-  > Note: ~~Jameson Irish Whiskey~~ removed with PartyMode Patch on 4/16/2025
+  Patch Update: ~~Jameson Irish Whiskey~~ removed with PartyMode Patch on 4/16/2025
   > Note:  Currently working on patch to install Reverse Osmosis Filter on main server.  

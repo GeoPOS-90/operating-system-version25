@@ -9,7 +9,7 @@
 - **Gaming Window:** 12:00PM EST – 8:30 PM EST
   - Main PC: Offline 🔴
   - iPad: Online 🟢
-
+  
   > Note: Scheduling outside these hours may cause unexpected behavior.
 
 ## 🔋Social Battery Status:

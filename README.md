@@ -4,7 +4,11 @@
 
 - **Communication Window:** 8:00 AM EST – 9:30 PM EST  
 - **Sleep Window:** 10:00 PM EST – 7:00 AM EST  
-- **Food + Water Window:** Awake – 7:00 PM EST  
+- **Food + Water Window:** Awake – 7:00 PM EST
+  
+- **Gaming Window:** 12:00PM EST – 8:30 PM EST
+- Main PC: Offline 🔴
+- iPad: Online 🟢
 
   > Note: Scheduling outside these hours may cause unexpected behavior.
 

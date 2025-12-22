@@ -2,7 +2,7 @@
 
 ## ⏰Schedule:
 
-- **Available Window:** 8:00 AM EST – 9:30 PM EST  
+- **Communication Window:** 8:00 AM EST – 9:30 PM EST  
 - **Sleep Window:** 10:00 PM EST – 7:00 AM EST  
 - **Food + Water Window:** Awake – 7:00 PM EST  
 

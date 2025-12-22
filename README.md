@@ -10,22 +10,23 @@
 ## 🔋Social Battery Status:
  **Current:** Fully charged ✅  
 
-   Options:
-  -- *Stable – Social interaction okay
-  -- *Low – Limited interaction recommended
-  -- *Critical – Essential communication only
-  -- *Offline – Not available
+   ### Options:
+  -- *Fully charged* – Open to socializing
+  -- *Stable* – Social interaction okay
+  -- *Low* – Limited interaction recommended
+  -- *Critical* – Essential communication only
+  -- *Offline* – Not available
 
 
 ## 🐛Injury/Bug Report:
-   - *Rehabbing ankle injury
-   - *Available for light to medium physical activies. 
+   - Rehabbing ankle injury
+   - Available for light to medium physical activies. 
 
 
 ## 🎉Party Mode:
-  - *This feature has been permanently disabled as of 04/16/2025
+  - This feature has been permanently disabled as of 04/16/2025
    > Note: Attempting to enable may cause unpredictable behavior.
 
 
 ## ⚙️Personal Glitches: 
-   - *to be update in a later patch
+   - to be update in a later patch

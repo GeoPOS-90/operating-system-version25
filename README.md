@@ -30,4 +30,5 @@
 
 
 ## ⚙️Personal Glitches: 
-   - to be updated in a later patch
+   - ### 🍔 Food
+   - ### 🫗 Liquids 

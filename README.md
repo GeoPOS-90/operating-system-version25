@@ -11,11 +11,11 @@
  **Current:** Fully charged ✅  
 
    ### Options:
-  -- *Fully charged* – Open to socializing
-  -- *Stable* – Social interaction okay
-  -- *Low* – Limited interaction recommended
-  -- *Critical* – Essential communication only
-  -- *Offline* – Not available
+  - *Fully charged* – Open to socializing
+  - *Stable* – Social interaction okay
+  - *Low* – Limited interaction recommended
+  - *Critical* – Essential communication only
+  - *Offline* – Not available
 
 
 ## 🐛Injury/Bug Report:

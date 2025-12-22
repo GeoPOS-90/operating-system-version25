@@ -40,4 +40,7 @@
      - Water (Filtered) or Kirkland Signature Ionized Alkaline Spring Water
      - Kirkland Signature Organic Fine-filtered 2% Milk
 
-  > Note:  Currently working on patch to install Reverse Osmosis Filter on main server.  
+  > Note:  Currently working on patch to install Reverse Osmosis Filter on main server.
+
+   - ### ✈️ Travel
+     - still in alpha, no plans to make updates. 

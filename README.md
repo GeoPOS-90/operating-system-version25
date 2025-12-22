@@ -40,5 +40,4 @@
      - Water (Filtered) or Kirkland Signature Ionized Alkaline Spring Water
      - Kirkland Signature Organic Fine-filtered 2% Milk
 
-  Patch Update: ~~Jameson Irish Whiskey~~ removed with PartyMode Patch on 4/16/2025
   > Note:  Currently working on patch to install Reverse Osmosis Filter on main server.  

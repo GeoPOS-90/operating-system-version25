@@ -32,10 +32,10 @@
 ## ⚙️Personal Glitches: 
    - ### 🍔 Food
     - System runs primarily on protein for sustance all other macros *unable* to keep system alive.
-  - Unable to process Indian Food
-   - Sweet Tooth still in beta
+    - Unable to process Indian Food
+    - Sweet Tooth still in beta
       
    - ### 🫗 Liquids
     - System currently optimized for the following liquids only
      - Water (Filtered) or Kirkland Signature Ionized Alkaline Spring Water
-        - Currently working on patch to install Reverse Osmosis Filter on main server.  
+   - Currently working on patch to install Reverse Osmosis Filter on main server.  

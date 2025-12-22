@@ -7,14 +7,14 @@
 
   > Note: Scheduling outside these hours may cause unexpected behavior.
 
-##🔋Social Battery Status:
+## 🔋Social Battery Status:
  **Current:** Fully charged ✅  
 
-  Options:
-  - *Stable – Social interaction okay
-  - *Low – Limited interaction recommended
-  - *Critical – Essential communication only
-  - *Offline – Not available
+  - **Options**:
+  -- *Stable – Social interaction okay
+  -- *Low – Limited interaction recommended
+  -- *Critical – Essential communication only
+  -- *Offline – Not available
 
 
 ## 🐛Injury/Bug Report:

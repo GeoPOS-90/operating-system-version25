@@ -31,7 +31,7 @@
 
 ## ⚙️Personal Glitches: 
    - ### 🍔 Food
-    - System runs primarily on protein for sustance all other macros *unable* to keep system alive.
+    - System runs primarily on protein for sustenance all other macros *unable* to keep system alive.
     - Unable to process Indian Food
     - Sweet Tooth still in beta
       

@@ -30,4 +30,4 @@
 
 
 ## ⚙️Personal Glitches: 
-   - to be update in a later patch
+   - to be updated in a later patch

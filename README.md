@@ -10,7 +10,7 @@
 ## 🔋Social Battery Status:
  **Current:** Fully charged ✅  
 
-  - Options:
+   Options:
   -- *Stable – Social interaction okay
   -- *Low – Limited interaction recommended
   -- *Critical – Essential communication only

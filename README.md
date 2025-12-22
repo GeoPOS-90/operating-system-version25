@@ -1,2 +1,31 @@
-# operating-system-version25
-Geo's daily unique operating schedule 
+# Geo's Patch Notes and Daily Operating System. Last update: 12/22/2025
+
+⏰Schedule:
+  *Sleep Window: 10:00PM EST to 7:00 AM EST 
+  *Available Window: 8:00 AM EST to 9:30PM EST 
+  *Food + Water Window: Awake to 7:00PM EST
+
+  > Note: Scheduling outside these hours may cause unexpected behavior.
+
+🔋Social Battery Status: Fully charged ✅
+
+  Options:
+  *Fully charged – Open to socializing
+  *Stable – Social interaction okay
+  *Low – Limited interaction recommended
+  *Critical – Essential communication only
+  *Offline – Not available
+
+
+🐛Injury/Bug Report:
+   *Rehabbing ankle injury
+   *Available for light to medium physical activies. 
+
+
+🎉Party Mode:
+  *This feature has been permanently disabled as of 04/16/2025
+   > Attempting to enable may cause unpredictable behavior.
+
+
+⚙️Personal Glitches: 
+   *to be update in a later patch

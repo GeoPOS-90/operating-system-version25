@@ -39,6 +39,7 @@
     - System runs primarily on protein for sustenance all other macros *unable* to keep system alive.
     - Unable to process Indian Food
     - Sweet Tooth still in beta
+    - Coconut is banned on the server
       
    - ### 🫗 Liquids
     System currently optimized for the following liquids only:

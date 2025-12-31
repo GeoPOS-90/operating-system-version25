@@ -6,7 +6,7 @@
 
 - **Food + Water Window:** Awake – 7:00 PM EST
   
-- **Gaming Window:** 12:00PM EST – 8:30 PM EST (Holiday Hours)
+- **Gaming Window:** 5:00PM EST – 8:30 PM EST
   - Main PC: Offline 🔴
   - iPad: Online 🟢
 
